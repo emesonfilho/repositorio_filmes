@@ -22,7 +22,7 @@ Estes são exemplos do que é possível fazer com essa base.
 * dash_filmes.pbix: o dash em Power Bi que foi feito usando os dados coletados;
 * df_filmes_populares.csv: é a base de dados;
 * df_filmes_populares - Copia.csv: é a cópia da base principal, um backup;
-* generos.xlsx: uma lista com os gêneros que seriam minerados.
+* generos.xlsx: uma lista com os gêneros que foram minerados.
 
 
 
