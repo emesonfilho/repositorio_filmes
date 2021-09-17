@@ -14,3 +14,26 @@ Estes são exemplos do que é possível fazer com essa base.
 ![image](https://user-images.githubusercontent.com/48841448/133701526-47d73d71-1525-4082-8874-25d114fd4c9b.png)
 
 ![image](https://user-images.githubusercontent.com/48841448/133701535-84322498-baf3-4a47-b497-e07d03ac5726.png)
+
+# Arquivos do projeto: 
+* total_imdb.ipynb: é o scrapping de todo o site;
+* imdb_scrapping.ipynb: é o scrapping dos top 250 filmes, rankeados pela nota;
+* analise_base_filmes.ipynb: uma análise breve da base de dados minerada do site;
+* dash_filmes.pbix: o dash em Power Bi que foi feito usando os dados coletados;
+* df_filmes_populares.csv: é a base de dados;
+* df_filmes_populares - Copia.csv: é a cópia da base principal, um backup;
+* generos.xlsx: uma lista com os gêneros que seriam minerados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
